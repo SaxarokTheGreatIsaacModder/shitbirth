@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="prettyboybow.anm2" priority="99" type="none" />
+	<costume anm2path="tech_z.anm2" priority="99" type="none" /> 
+</costumes>

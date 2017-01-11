@@ -166,7 +166,7 @@ function pbb:check()
   end
 	
   if player:HasCollectible(techZ_item) then
-
+--new comment
     local entities = Isaac.GetRoomEntities();
     for i = 1, #entities do
       local e = entities[i];

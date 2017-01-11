@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Mommy is proud!" gfx="Collectibles_pretty_boy_bow.png" name="Pretty Boy Bow" />
+	<passive description="Another laser?!" gfx="Collectibles_tech_z.png" name="Tech Z" />
+</items>
